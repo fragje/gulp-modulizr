@@ -1,6 +1,14 @@
 {
   "name": "gulp-modulizr",
-  "version": "0.0.1",
+  "description": "Build custom Modernizr with gulp",
+  "version": "0.0.2",
+  "author": "Maxim Pshenichnikov <m.pshenichnikov@gmail.com>",
+  "homepage": "https://github.com/maximandolya/gulp-modulizr",
+  "repository": "https://github.com/maximandolya/gulp-modulizr.git",
+  "keywords": [
+    "gulpplugin",
+    "modernizr"
+  ],
   "dependencies": {
     "through2": "*",
     "gulp-util": "~2.2.0"
