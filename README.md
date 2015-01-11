@@ -17,7 +17,7 @@ gulp.task("custom-modernizr", function() {
             "bower_components/modernizr/feature-detects/url-data-uri.js"
         ]))
         .pipe(require("gulp-concat")("custom-modernizr.js"))
-        .pipe(gulp.dest("public/assets");
+        .pipe(gulp.dest("public/assets"));
 });
 
 ```
